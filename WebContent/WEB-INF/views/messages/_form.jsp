@@ -3,7 +3,7 @@
 <input type="text" name="title" value="${message.title}" />
 <br /><br />
 
-<label for="content">タイトル</label><br />
+<label for="content">メッセージ</label><br />
 <input type="text" name="content" value="${message.content}" />
 <br /><br />
 
